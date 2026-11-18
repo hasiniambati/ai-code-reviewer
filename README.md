@@ -1,9 +1,5 @@
 # 🤖 Autonomous Code Review & Bug Remediation Agent
 
-[![Live Demo](https://img.shields.io/badge/Streamlit-Cloud-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-code-reviewer1.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-
 An advanced multi-agent static analysis system built with Python, LangGraph concepts, and Streamlit. It inspects source code via Abstract Syntax Tree (AST) parsing, scans for security vulnerabilities and runtime scope errors, and generates automated, clean code refactoring patches.
 
 🌐 **Live Demo:** [View Live Streamlit Cloud Application](https://ai-code-reviewer1.streamlit.app/)
